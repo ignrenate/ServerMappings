@@ -1521,5 +1521,11 @@
         "addresses": [
             "vortexnetwork.net"
         ]
+    {
+        "id": "veaxnetwork",
+        "name": "Veax Network",
+        "addresses": [
+            "veax.rip"
+        ]
     }
 ]
